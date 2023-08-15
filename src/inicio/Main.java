@@ -10,6 +10,7 @@ public class Main {
 		Auto miAuto = new Auto();
 		Moto miMoto = new Moto();
 		
+		System.out.println("hola mundo");
 		
 		miAuto.queSoy();
 		miMoto.queSoy();

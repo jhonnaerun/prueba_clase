@@ -5,6 +5,9 @@ public class Moto extends Vehiculo {
 	private int cilindraje;
 	private double tam_tanque;
 	
+	/**
+	 * comentarios
+	 */
 	public Moto() {
 		
 	}
